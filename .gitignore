@@ -1,0 +1,8 @@
+node_modules/
+.env
+.vscode/
+dist/
+status.txt
+frontend_old/
+backend/uploads/
+.DS_Store
